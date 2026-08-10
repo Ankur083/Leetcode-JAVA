@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0198-house-robber/) | Medium |
 | [0740-delete-and-earn](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,5 +20,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0198-house-robber/) | Medium |
 | [0740-delete-and-earn](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [2466-count-ways-to-build-good-strings](https://github.com/Ankur083/Leetcode-JAVA/tree/master/2466-count-ways-to-build-good-strings) |
 <!---LeetCode Topics End-->
