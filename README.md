@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0740-delete-and-earn](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0001-two-sum) |
 | [0740-delete-and-earn](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0740-delete-and-earn) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0184-department-highest-salary](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0184-department-highest-salary/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
