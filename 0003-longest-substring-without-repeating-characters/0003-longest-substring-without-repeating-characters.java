@@ -5,19 +5,20 @@ class Solution {
             return 0;
         }
 
-        Map<Character, Integer>mpp = new HashMap<>();
+        // Map<Character, Integer>mpp = new HashMap<>();
+        int []freq = new int[128];
 
         int l = 0;
         int ans = 1;
 
         for(int r = 0; r < s.length(); r++){
 
-            while(mpp.containsKey(s.charAt(r))){
-                mpp.remove(s.charAt(l));
+            while(freq[s.charAt(r)] > 0){
+                freq[s.charAt(l)]--;
                 l++;
             }
             
-            mpp.put(s.charAt(r), mpp.getOrDefault(s.charAt(r), 0)+1);
+            freq[s.charAt(r)]++;
             ans = Math.max(ans, r-l+1);
 
 
