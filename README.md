@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [2140-solving-questions-with-brainpower](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0198-house-robber/) | Medium |
 | [0740-delete-and-earn](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [2140-solving-questions-with-brainpower](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/Ankur083/Leetcode-JAVA/tree/master/2466-count-ways-to-build-good-strings) |
 ## String
 | Problem Name | Difficulty |
