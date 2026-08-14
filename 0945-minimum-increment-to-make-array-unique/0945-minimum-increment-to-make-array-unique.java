@@ -6,8 +6,8 @@ class Solution {
 
         for(int i = 1;i < nums.length; i++){
             if(next >= nums[i]){
-                minMoves += next+1-nums[i];
                 next++;
+                minMoves += next-nums[i];
             }
             else{
                 next = nums[i];
