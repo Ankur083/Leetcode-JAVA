@@ -6,14 +6,13 @@ class Solution {
         int ans = 0;
 
         for(int r = 0; r < s.length(); r++){
-            
-            mpp.put(s.charAt(r), mpp.getOrDefault(s.charAt(r), 0)+1);
 
-            while(mpp.get(s.charAt(r)) > 1){
-                mpp.put(s.charAt(l), mpp.get(s.charAt(l))-1);
+            while(mpp.containsKey(s.charAt(r))){
+                mpp.remove(s.charAt(l));
                 l++;
             }
-
+            
+            mpp.put(s.charAt(r), mpp.getOrDefault(s.charAt(r), 0)+1);
             ans = Math.max(ans, r-l+1);
 
 
