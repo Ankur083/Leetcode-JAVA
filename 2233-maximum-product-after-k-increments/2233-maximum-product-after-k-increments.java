@@ -20,6 +20,6 @@ class Solution {
             ans = (int)((long)ans*num%mod) ;
         }
 
-        return ans%mod;
+        return ans;
     }
 }
