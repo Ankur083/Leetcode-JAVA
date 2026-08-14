@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0740-delete-and-earn](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2233-maximum-product-after-k-increments](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2233-maximum-product-after-k-increments](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 ## Bracket Sequences
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2233-maximum-product-after-k-increments](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2233-maximum-product-after-k-increments/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 <!---LeetCode Topics End-->
