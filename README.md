@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0162-find-peak-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0162-find-peak-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
