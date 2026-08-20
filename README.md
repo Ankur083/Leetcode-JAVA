@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
+| [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
 | [2140-solving-questions-with-brainpower](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/Ankur083/Leetcode-JAVA/tree/master/2466-count-ways-to-build-good-strings) |
 ## String
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
+| [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
+| [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
