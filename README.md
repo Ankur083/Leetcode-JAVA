@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0184-department-highest-salary/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1164-product-price-at-a-given-date/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
