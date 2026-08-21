@@ -13,27 +13,16 @@ class MinStack {
     }
     
     public void pop() {
-        int remove = 0;
-        if(!s.isEmpty()){
-            remove = s.pop();
-        }
+        int remove = s.pop();
         pq.remove(remove);
     }
     
     public int top() {
-        int x = 0;
-        if(!s.isEmpty()){
-            x = s.peek();
-        }
-        return x;
+        return s.peek();
     }
     
     public int getMin() {
-        int y = 0;
-        if(!pq.isEmpty()){
-            y =  pq.peek();
-        }
-        return y;
+        return pq.peek();
     }
 }
 
