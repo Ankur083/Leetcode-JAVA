@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0155-min-stack](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0155-min-stack/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
