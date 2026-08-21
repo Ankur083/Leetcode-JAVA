@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0176-second-highest-salary/) | Medium |
+| [0180-consecutive-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0184-department-highest-salary/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
