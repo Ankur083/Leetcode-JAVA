@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
 | [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
