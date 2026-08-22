@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0184-department-highest-salary/) | Medium |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1321-restaurant-growth](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1321-restaurant-growth/) | Medium |
