@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4020-elevator-requests-i/) | Easy |
 | [4024-nearest-available-drone](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4024-nearest-available-drone/) | Easy |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [2233-maximum-product-after-k-increments](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2233-maximum-product-after-k-increments/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 <!---LeetCode Topics End-->
