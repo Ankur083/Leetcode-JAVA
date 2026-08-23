@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1321-restaurant-growth](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1321-restaurant-growth/) | Medium |
+| [1484-group-sold-products-by-the-date](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1667-fix-names-in-a-table/) | Easy |
 ## Sliding Window
