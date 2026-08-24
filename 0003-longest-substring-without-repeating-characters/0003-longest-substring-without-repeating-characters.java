@@ -5,23 +5,27 @@ class Solution {
             return 0;
         }
 
-        // Map<Character, Integer>mpp = new HashMap<>();
-        int []freq = new int[128];
+        Map<Character, Integer>freq = new HashMap<>();
 
         int l = 0;
+        int r = 0;
         int ans = 1;
 
-        for(int r = 0; r < s.length(); r++){
+        while(r < s.length()){
+            char ch = s.charAt(r);
 
-            while(freq[s.charAt(r)] > 0){
-                freq[s.charAt(l)]--;
+            while(freq.containsKey(ch)){
+                freq.remove(s.charAt(l));
                 l++;
             }
             
-            freq[s.charAt(r)]++;
+            if(!freq.containsKey(ch)){
+                freq.put(ch, 1);
+            }
+
+
             ans = Math.max(ans, r-l+1);
-
-
+            r++;
         }
         return ans;
     }
