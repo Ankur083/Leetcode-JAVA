@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0909-snakes-and-ladders/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
