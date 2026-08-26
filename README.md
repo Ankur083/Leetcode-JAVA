@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0127-word-ladder/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0740-delete-and-earn](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0740-delete-and-earn) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0542-01-matrix/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -279,5 +282,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
