@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0127-word-ladder/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 | [4026-maximum-gap-between-stations](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4026-maximum-gap-between-stations/) | Medium |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sorting
