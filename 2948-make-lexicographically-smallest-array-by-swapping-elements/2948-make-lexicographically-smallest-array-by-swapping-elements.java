@@ -16,26 +16,20 @@ class Solution {
             if(i == 0){
                 mpp.put(nums[i], new PriorityQueue<>());
                 mpp.get(nums[i]).add(nums[i]);
-
-                if(!mpp1.containsKey(nums[i])){
-                    mpp1.put(nums[i], nums[i]);
-                }
+                mpp1.put(nums[i], nums[i]);
                 continue;
             }
 
             if(nums[i]-nums[i-1] <= limit){
                 int parent = mpp1.get(nums[i-1]);
                 mpp.get(parent).add(nums[i]);
-                // if(!mpp1.containsKey(nums[i])){
-                    mpp1.put(nums[i], parent);
-                // }
+                mpp1.put(nums[i], parent);
             }
             else{
                 mpp.put(nums[i], new PriorityQueue<>());
                 mpp.get(nums[i]).add(nums[i]);
-                // if(!mpp1.containsKey(nums[i])){
-                    mpp1.put(nums[i], nums[i]);
-                // }
+                mpp1.put(nums[i], nums[i]);
+                
             }
         }
         int []ans = new int[nums.length];
