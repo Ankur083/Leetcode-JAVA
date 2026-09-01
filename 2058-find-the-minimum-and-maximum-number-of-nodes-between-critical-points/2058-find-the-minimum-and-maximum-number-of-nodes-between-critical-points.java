@@ -24,12 +24,34 @@ class Solution {
 
 
         int cnt = 2;
+        int idx1 = -1;
+        int idx2 = -1;
+        int m = Integer.MAX_VALUE;
+    
         while(forw != null){
             if(prev.val < curr.val && curr.val > forw.val){
                 local.add(cnt);
+                if(idx1 == -1){
+                    idx1 = cnt;
+                }
+                else{
+                    idx2 = cnt;
+                    m = Math.min(m, idx2-idx1);
+                    idx1 = idx2;
+                    idx2 = -1;
+                }
             }
             else if(prev.val > curr.val && curr.val < forw.val){
                 local.add(cnt);
+                if(idx1 == -1){
+                    idx1 = cnt;
+                }
+                else{
+                    idx2 = cnt;
+                    m = Math.min(m, idx2-idx1);
+                    idx1 = idx2;
+                    idx2 = -1;
+                }
             }
             cnt++;
             prev = curr;
@@ -41,19 +63,6 @@ class Solution {
         // int secondMin = Integer.MAX_VALUE;
         // int max = Integer.MIN_VALUE;
 
-        // for(int i = 0; i < local.size(); i++){
-        //     if(firstMin > local.get(i)){
-        //         secondMin = firstMin;
-        //         firstMin = local.get(i);
-        //     }
-        //     else if(secondMin > local.get(i)){
-        //         secondMin = local.get(i);
-        //     }
-        //     else if(max < local.get(i)){
-        //         max = local.get(i);
-        //     }
-        // } 
-
         if(local.size() < 2){
             return new int[]{-1, -1};
         }
@@ -63,15 +72,17 @@ class Solution {
             int b = a;
             return new int[]{a, b};
         }
+        int min = m;
 
-        Collections.sort(local);
 
-        int min = Integer.MAX_VALUE;
+        // Collections.sort(local);
+
+        // int min = Integer.MAX_VALUE;
         int max = local.get(local.size()-1) - local.get(0);
 
-        for(int i = 1; i < local.size(); i++){
-            min = Math.min(min, local.get(i)-local.get(i-1));
-        }
+        // for(int i = 1; i < local.size(); i++){
+        //     min = Math.min(min, local.get(i)-local.get(i-1));
+        // }
 
         return new int[]{min, max};
 
