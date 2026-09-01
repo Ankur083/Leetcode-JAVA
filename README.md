@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium |
 | [4026-maximum-gap-between-stations](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4026-maximum-gap-between-stations/) | Medium |
