@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0260-single-number-iii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0542-01-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0542-01-matrix/) | Medium |
 | [0605-can-place-flowers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [4026-maximum-gap-between-stations](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Enumeration
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0260-single-number-iii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -334,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0056-merge-intervals/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
