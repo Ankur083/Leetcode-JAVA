@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
