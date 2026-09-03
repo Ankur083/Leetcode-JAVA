@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [4020-elevator-requests-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4020-elevator-requests-i/) | Easy |
 | [4024-nearest-available-drone](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4024-nearest-available-drone/) | Easy |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
