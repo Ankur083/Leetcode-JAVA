@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0542-01-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0542-01-matrix/) | Medium |
 | [0605-can-place-flowers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0011-container-with-most-water/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0605-can-place-flowers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0605-can-place-flowers/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
