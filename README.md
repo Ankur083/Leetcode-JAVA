@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
