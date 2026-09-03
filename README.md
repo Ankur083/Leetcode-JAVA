@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0031-next-permutation/) | Medium |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
