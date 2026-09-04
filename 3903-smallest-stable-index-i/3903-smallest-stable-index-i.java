@@ -1,9 +1,9 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
 
-        if(nums.length == 1){
-            return 0;
-        }
+        // if(nums.length == 1){
+        //     return 0;
+        // }
         
         int min[] = new int[nums.length];
         min[nums.length-1] = nums[nums.length-1];
@@ -23,7 +23,5 @@ class Solution {
         }
 
         return -1;
-
-
     }
 }
