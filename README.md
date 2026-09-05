@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
