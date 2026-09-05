@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/Ankur083/Leetcode-JAVA/tree/master/2466-count-ways-to-build-good-strings) |
 ## String
@@ -340,15 +341,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -397,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
