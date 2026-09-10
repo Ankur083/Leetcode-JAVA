@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,10 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
