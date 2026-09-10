@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0213-house-robber-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0198-house-robber](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0213-house-robber-ii/) | Medium |
 | [0312-burst-balloons](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0312-burst-balloons/) | Hard |
 | [0542-01-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0542-01-matrix/) | Medium |
 | [0740-delete-and-earn](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0740-delete-and-earn) |
