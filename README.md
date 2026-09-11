@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0162-find-peak-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0162-find-peak-element/) | Medium |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0131-palindrome-partitioning/) | Medium |
