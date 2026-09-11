@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0312-burst-balloons](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0312-burst-balloons/) | Hard |
+| [0322-coin-change](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0455-assign-cookies/) | Easy |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0213-house-robber-ii/) | Medium |
 | [0312-burst-balloons](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0312-burst-balloons/) | Hard |
+| [0322-coin-change](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0542-01-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0542-01-matrix/) | Medium |
 | [0740-delete-and-earn](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0740-delete-and-earn) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0127-word-ladder/) | Hard |
+| [0322-coin-change](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0733-flood-fill/) | Easy |
@@ -461,9 +464,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
