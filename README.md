@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 | [4024-nearest-available-drone](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4024-nearest-available-drone/) | Easy |
 ## Simulation
@@ -435,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0070-climbing-stairs/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
