@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1695-maximum-erasure-value/) | Medium |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
