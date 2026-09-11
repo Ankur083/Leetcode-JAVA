@@ -23,21 +23,21 @@ class Solution {
         int n2 = s2.length();
         int[][] dp = new int[n1 + 1][n2 + 1];
 
-        for (int i = n1 - 1; i >= 0; i--) {
-            for (int j = n2 - 1; j >= 0; j--) {
+        for (int i = 1; i <= n1; i++) {
+            for (int j = 1; j <= n2; j++) {
                 int cnt = 0;
-                if (s1.charAt(i) == s2.charAt(j)) {
-                    cnt = 1 + dp[i + 1][j + 1];
+                if (s1.charAt(i - 1) == s2.charAt(j - 1)) {
+                    cnt = 1 + dp[i - 1][j - 1];
                 } else {
-                    int a = dp[i + 1][j];
-                    int b = dp[i][j + 1];
+                    int a = dp[i - 1][j];
+                    int b = dp[i][j - 1];
                     cnt = Math.max(a, b);
                 }
                 dp[i][j] = cnt;
             }
         }
 
-        return dp[0][0];
+        return dp[n1][n2];
 
     }
 }
