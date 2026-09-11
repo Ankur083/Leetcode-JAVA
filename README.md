@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0312-burst-balloons](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0312-burst-balloons/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0542-01-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0542-01-matrix/) | Medium |
 | [0605-can-place-flowers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0605-can-place-flowers/) | Easy |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0213-house-robber-ii/) | Medium |
 | [0312-burst-balloons](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0312-burst-balloons/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0542-01-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0542-01-matrix/) | Medium |
 | [0740-delete-and-earn](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -449,4 +451,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
