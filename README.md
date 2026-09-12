@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0044-wildcard-matching/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0072-edit-distance/) | Medium |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0115-distinct-subsequences/) | Hard |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0044-wildcard-matching/) | Hard |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0605-can-place-flowers/) | Easy |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0044-wildcard-matching/) | Hard |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Knapsack Problem
