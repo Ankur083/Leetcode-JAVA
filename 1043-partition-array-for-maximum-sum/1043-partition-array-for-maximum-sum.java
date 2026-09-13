@@ -1,35 +1,31 @@
 class Solution {
-    public int find(int i, int []arr, int k, int []dp){
-        int n = arr.length;
+    public int find(int i , int []arr, int k, int []dp){
 
-        if(i == n){
+        if(i == arr.length){
             return 0;
         }
+
 
         if(dp[i] != -1){
             return dp[i];
         }
 
+        int max = 0;
         int maxSum = 0;
-        int sum = 0;
-        int max = Integer.MIN_VALUE;
-
         int len = 0;
+        for(int j = i; j < Math.min(arr.length, i+k); j++){
 
-        for(int ind = i; ind < Math.min(n, i+k); ind++){
             len++;
+            max = Math.max(max, arr[j]);
 
-            max = Math.max(max, arr[ind]);
+            int cost = len*max+find(j+1, arr, k, dp);
+            maxSum = Math.max(maxSum, cost);
 
-            sum = len*max+find(ind+1, arr, k, dp);
-            maxSum = Math.max(maxSum, sum);
         }
         return dp[i] = maxSum;
     }
     public int maxSumAfterPartitioning(int[] arr, int k) {
-        int n = arr.length;
-
-        int []dp = new int[n];
+        int []dp = new int[arr.length];
 
         Arrays.fill(dp, -1);
 
