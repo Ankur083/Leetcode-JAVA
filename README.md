@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1278-palindrome-partitioning-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1278-palindrome-partitioning-iii/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1278-palindrome-partitioning-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1278-palindrome-partitioning-iii/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2207-maximize-number-of-subsequences-in-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
