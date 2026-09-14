@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/Ankur083/Leetcode-JAVA/tree/master/2466-count-ways-to-build-good-strings) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
