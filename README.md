@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
 | [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -523,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
