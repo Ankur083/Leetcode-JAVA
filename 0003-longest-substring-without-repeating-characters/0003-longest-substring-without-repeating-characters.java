@@ -19,9 +19,9 @@ class Solution {
                 l++;
             }
             
-            if(!freq.containsKey(ch)){
-                freq.put(ch, 1);
-            }
+           
+            freq.put(ch, 1);
+            
 
 
             ans = Math.max(ans, r-l+1);
