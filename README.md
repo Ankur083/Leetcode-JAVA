@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2207-maximize-number-of-subsequences-in-a-string/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
