@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1280-students-and-examinations](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
