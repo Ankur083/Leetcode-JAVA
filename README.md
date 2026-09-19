@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0620-not-boring-movies/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1251-average-selling-price](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
