@@ -10,6 +10,6 @@ Sum(case when state = 'approved' then amount else 0 END) As approved_total_amoun
 
 From 
 Transactions 
-group by DATE_FORMAT(trans_date, '%Y-%m') ,country 
+group by MONTH(trans_date) , YEAR(trans_date) ,country 
  
 
