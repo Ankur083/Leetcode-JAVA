@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
