@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0836-rectangle-overlap/) | Easy |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0050-powx-n/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Knapsack Problem
