@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0620-not-boring-movies](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1075-project-employees-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1193-monthly-transactions-i/) | Medium |
