@@ -13,13 +13,13 @@ class Solution {
         for (int r = 0; r < n; r++) {
             product *= nums[r];
 
-            while (product >= k && l<= r) {
+            while (product >= k && l <= r) {
                 product /= nums[l];
                 l++;
 
             }
-            if (product < k)
-                cnt += (r - l + 1);
+            
+            cnt += (r - l + 1);
 
         }
         return cnt;
