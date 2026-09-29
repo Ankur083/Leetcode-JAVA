@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4020-elevator-requests-i/) | Easy |
