@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4020-elevator-requests-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4020-elevator-requests-i/) | Easy |
 | [4024-nearest-available-drone](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4024-nearest-available-drone/) | Easy |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
