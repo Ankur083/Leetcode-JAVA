@@ -1,17 +1,9 @@
 # Write your MySQL query statement below
--- With cte As (
---     Select *, 
---         LAG(temperature) Over(order by recordDate) As prevTemp,
---         LAG(recordDate) Over(order by recordDate) As prevDate
---     From Weather
--- )
+with cte As(
+    Select *,
+            LAG(temperature, 1, temperature+1) OVER(Order by recordDate) As prevTemp,
+            LAG(recordDate, 1) OVER(Order by recordDate) As prevRecord
+        From Weather
+)
 
--- Select id
--- From cte Where DateDiff(recordDate, prevDate) = 1 AND temperature > prevTemp;
-
-select w1.id 
-From 
-Weather w1 Join Weather w2
-On DateDiff(w1.recordDate,w2.recordDate) = 1
-And w1.temperature > w2.temperature;
-
+select id From cte where temperature > prevTemp AND DAteDIFF(recordDate , prevRecord) = 1;
