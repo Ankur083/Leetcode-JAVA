@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1278-palindrome-partitioning-iii/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2207-maximize-number-of-subsequences-in-a-string/) | Medium |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [4026-maximum-gap-between-stations](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
