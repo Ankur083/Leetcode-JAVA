@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
 | [4026-maximum-gap-between-stations](https://github.com/Ankur083/Leetcode-JAVA/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
