@@ -1,7 +1,6 @@
 # Write your MySQL query statement below
-Select user_id, 
-    CONCAT(
-        Upper(Substring(name, 1, 1)),
-        Lower(Substring(name, 2))
-    ) As name
-From Users order by user_id Asc;
+Select user_id, Concat(
+            Upper(Substring(name, 1, 1)),
+            lower(Substring(name, 2))
+        ) As name
+From Users order by user_id
