@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
