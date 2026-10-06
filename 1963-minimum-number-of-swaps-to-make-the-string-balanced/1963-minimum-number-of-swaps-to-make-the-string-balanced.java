@@ -1,8 +1,8 @@
 class Solution {
     public int minSwaps(String s) {
         int ans = 0;
-        int balance = 0;
-      
+        int open = 0;
+        int close = 0;
 
         int j = s.length()-1;
         char []ch = s.toCharArray();
@@ -10,13 +10,13 @@ class Solution {
 
         while(i < j){
             if(ch[i] == '['){
-                balance++;
+                open++;
             }
             else{
-                balance--;
+                close++;
             }
 
-            if(balance < 0){
+            if(open < close){
                 ans++;
                 while(j > i){
                     if(ch[j] == '['){
@@ -24,7 +24,8 @@ class Solution {
                         ch[i] = ch[j];
                         ch[j] = temp;
                         j--;
-                        balance = 1;
+                        open++;
+                        close--;
                         break;
                     }
                     j--;
