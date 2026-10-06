@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1158-market-analysis-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1158-market-analysis-i/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1193-monthly-transactions-i/) | Medium |
