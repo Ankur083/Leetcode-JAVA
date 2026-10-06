@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1393-capital-gainloss](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1393-capital-gainloss/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1527-patients-with-a-condition/) | Easy |
