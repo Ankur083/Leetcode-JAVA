@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0063-unique-paths-ii/) | Medium |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0127-word-ladder](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0127-word-ladder/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0115-distinct-subsequences/) | Hard |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0368-largest-divisible-subset/) | Medium |
