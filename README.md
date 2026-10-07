@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1278-palindrome-partitioning-iii/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2207-maximize-number-of-subsequences-in-a-string/) | Medium |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 ## Counting
@@ -652,4 +657,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 <!---LeetCode Topics End-->
