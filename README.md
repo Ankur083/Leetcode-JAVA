@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
