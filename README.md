@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1563-stone-game-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1563-stone-game-v/) | Hard |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2905-find-indices-with-index-and-value-difference-ii/) | Medium |
