@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/Ankur083/Leetcode-JAVA/tree/master/2466-count-ways-to-build-good-strings) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
