@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1140-stone-game-ii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0909-snakes-and-ladders/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Ankur083/Leetcode-JAVA/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 ## Divide and Conquer
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
@@ -539,12 +543,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/Ankur083/Leetcode-JAVA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/Ankur083/Leetcode-JAVA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankur083/Leetcode-JAVA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
