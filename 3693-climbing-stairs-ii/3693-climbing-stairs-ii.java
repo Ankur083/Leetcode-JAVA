@@ -4,24 +4,31 @@ class Solution {
         if(i == target){
             return 0;
         }
-        int ans = Integer.MAX_VALUE;
 
         if(dp[i] != Integer.MAX_VALUE){
             return dp[i];
         }
 
-       for(int jump = 1; jump <= 3; jump++){
+        int step1 = Integer.MAX_VALUE;
+        int step2 = Integer.MAX_VALUE;
+        int step3 = Integer.MAX_VALUE;
 
-            int j = i+jump;
+        int j = i+1;
+        if(j <= target){
+             step1 = costs[j-1]+1+find(j, target, costs, dp);
+        }
+    
+        j = i+2;
+        if(j <= target){
+             step2 = costs[j-1]+4+find(j, target, costs, dp);
+        }
 
-            if(j <= target){
-                int cost = costs[j-1]+jump*jump+find(j, target, costs, dp);
-                ans = Math.min(cost, ans);
-            }
+        j = i+3;
+        if(j <= target){
+             step3 = costs[j-1]+9+find(j, target, costs, dp);
+        }
 
-       }
-
-        return dp[i] = ans;
+        return dp[i] =  Math.min(step1, Math.min(step2, step3));
     }
     public int climbStairs(int n, int[] costs) {
 
